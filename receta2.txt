@@ -1,1 +1,4 @@
 Nombre: Omelette
+
+Pasos:
+1. Batir 2 huevos
